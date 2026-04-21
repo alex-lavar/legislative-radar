@@ -1,0 +1,156 @@
+{
+  "lastUpdated": "2026-04-20T00:00:00Z",
+  "upcomingBills": [
+    {
+      "id": "HR-2289",
+      "congressBillId": "119/hr/2289",
+      "title": "American Broadband Deployment Act of 2026",
+      "chamber": "House",
+      "sponsor": "Rep. Carter (GA-R)",
+      "committee": "Energy & Commerce",
+      "category": "Telecom / Infrastructure",
+      "voteWeek": "Apr 21–24, 2026",
+      "status": "FLOOR THIS WEEK",
+      "summary": "Strips most environmental (NEPA) and historic preservation review requirements from wireless tower modifications and cell antenna upgrades. Auto-approves applications if government deadlines are missed. Limits local zoning authority over 5G small cell placement on utility poles, light poles, and buildings including schools.",
+      "passLikelihood": 72,
+      "passLabel": "Likely (House) / Uncertain (Senate)",
+      "passReasoning": "Passed committee 26-24 on party lines. GOP House majority will likely hold. Senate has local-control skeptics on both sides. Needs a Senate companion or reconciliation path to become law.",
+      "stocks": [
+        { "ticker": "AMT", "name": "American Tower Corp", "impact": "▲ Positive", "reason": "Tower REIT directly benefits from streamlined modification approvals." },
+        { "ticker": "CCI", "name": "Crown Castle", "impact": "▲ Positive", "reason": "Small cell densification accelerated under eliminated local permitting." },
+        { "ticker": "SBAC", "name": "SBA Communications", "impact": "▲ Positive", "reason": "Same tower REIT tailwind as AMT/CCI." },
+        { "ticker": "T", "name": "AT&T", "impact": "▲ Positive", "reason": "Lower rollout cost for 5G dense urban deployments." },
+        { "ticker": "VZ", "name": "Verizon", "impact": "▲ Positive", "reason": "5G expansion made faster and cheaper." },
+        { "ticker": "TMUS", "name": "T-Mobile", "impact": "▲ Positive", "reason": "Rural and suburban small cell deployment friction reduced." }
+      ]
+    },
+    {
+      "id": "HR-1897",
+      "congressBillId": "119/hr/1897",
+      "title": "ESA Amendments Act of 2025",
+      "chamber": "House",
+      "sponsor": "Rep. Westerman (AR-R)",
+      "committee": "Natural Resources",
+      "category": "Environment / Land Use",
+      "voteWeek": "Apr 21–24, 2026",
+      "status": "FLOOR THIS WEEK",
+      "summary": "Major overhaul of the Endangered Species Act. Allows state/county government data to qualify as 'best available science,' requires economic impact assessments before listing decisions, limits critical habitat designation on private land with active conservation plans.",
+      "passLikelihood": 65,
+      "passLabel": "Likely (House) / Long Shot (Senate)",
+      "passReasoning": "Passed committee 25-16 on partisan lines. House floor vote expected to succeed. Senate ESA reform has stalled historically. Some bipartisan rural-state support possible.",
+      "stocks": [
+        { "ticker": "XOM", "name": "ExxonMobil", "impact": "▲ Positive", "reason": "Fewer ESA delays on pipeline and drilling siting reviews." },
+        { "ticker": "CVX", "name": "Chevron", "impact": "▲ Positive", "reason": "Same upstream project permitting benefit." },
+        { "ticker": "FCX", "name": "Freeport-McMoRan", "impact": "▲ Positive", "reason": "Copper/gold mining projects less vulnerable to ESA litigation." },
+        { "ticker": "NEE", "name": "NextEra Energy", "impact": "▲ Positive", "reason": "Wind/solar siting on federal land becomes easier." }
+      ]
+    },
+    {
+      "id": "HR-7386",
+      "congressBillId": "119/hr/7386",
+      "title": "FirstNet Reauthorization Act of 2026",
+      "chamber": "House",
+      "sponsor": "Rep. Dunn (R)",
+      "committee": "Energy & Commerce",
+      "category": "Public Safety / Telecom",
+      "voteWeek": "Apr 21, 2026",
+      "status": "FLOOR THIS WEEK",
+      "summary": "Reauthorizes the First Responder Network Authority (FirstNet), the national public safety broadband network used by police, fire, and EMS, operated in partnership with AT&T.",
+      "passLikelihood": 92,
+      "passLabel": "Near Certain — Deep Bipartisan Support",
+      "passReasoning": "Under suspension of the rules. First responder infrastructure has near-universal congressional support. No meaningful opposition expected.",
+      "stocks": [
+        { "ticker": "T", "name": "AT&T", "impact": "▲ Positive", "reason": "AT&T holds the exclusive FirstNet contract — reauthorization locks in the public safety revenue stream long term." }
+      ]
+    },
+    {
+      "id": "FISA-FULL",
+      "congressBillId": null,
+      "title": "FISA Section 702 Long-Term Reauthorization",
+      "chamber": "House",
+      "sponsor": "Leadership (R)",
+      "committee": "Intelligence / Judiciary",
+      "category": "National Security / Tech",
+      "voteWeek": "Week of Apr 28 (Deadline Apr 30)",
+      "status": "IMMINENT — Expires Apr 30",
+      "summary": "Full multi-year reauthorization of FISA Section 702. Trump wants a clean 18-month or 5-year extension. Privacy hawks in both parties demand warrant requirements before accessing American citizens' communications data.",
+      "passLikelihood": 50,
+      "passLabel": "Coin Flip — Warrant Provision Is the Fault Line",
+      "passReasoning": "The same coalition of ~20 GOP privacy hawks + most Democrats blocked the 18-month clean extension. A deal requires warrant reforms Trump accepts, or enough Democratic crossovers to overcome the rebels.",
+      "stocks": [
+        { "ticker": "GOOG", "name": "Alphabet / Google", "impact": "▼ Negative (clean ext.)", "reason": "Clean extension = continued compelled data handover with no new legal clarity." },
+        { "ticker": "META", "name": "Meta Platforms", "impact": "▼ Slight Negative", "reason": "Same compelled-provider exposure as Google under 702." },
+        { "ticker": "HACK", "name": "Cyber Security ETF", "impact": "▲ Positive", "reason": "Any extension keeps national security tech spend flowing." },
+        { "ticker": "CACI", "name": "CACI International", "impact": "▲ Positive", "reason": "Intelligence/surveillance IT contractor benefits from program continuation." }
+      ]
+    }
+  ],
+  "pastBills": [
+    {
+      "id": "HJ-RES-140",
+      "congressBillId": "119/hjres/140",
+      "title": "Boundary Waters Mining Withdrawal Repeal",
+      "chamber": "Senate",
+      "sponsor": "Rep. Pete Stauber (MN-R)",
+      "category": "Environment / Mining",
+      "voteDate": "Apr 16, 2026",
+      "status": "PASSED",
+      "summary": "Used the Congressional Review Act to overturn a 20-year federal mining withdrawal protecting the Boundary Waters Canoe Area Wilderness in Minnesota from sulfide-ore copper mining.",
+      "predictedLikelihood": 58,
+      "predictedLabel": "Likely to squeak by — CRA bypasses filibuster",
+      "predictedOutcome": "PASS",
+      "actualVote": { "yea": 50, "nay": 49, "notVoting": 1, "result": "PASSED" },
+      "voteNote": "Two Republicans (Collins, Tillis) defected. Hawley absent.",
+      "stocks": [
+        { "ticker": "FQVLF", "name": "Antofagasta (Twin Metals parent)", "projectedDir": "UP", "projectedMag": "Strong", "projectedReason": "Would unlock the copper mining project blocked since 2021.", "actualDir": "UP", "actualPct": 4.0, "actualNote": "Antofagasta shares rose on London exchange. Twin Metals project now legally re-openable." },
+        { "ticker": "FCX", "name": "Freeport-McMoRan", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Precedent for CRA use against land withdrawals benefits copper miners broadly.", "actualDir": "UP", "actualPct": 1.2, "actualNote": "Modest sympathy trade on reduced federal mining restriction sentiment." },
+        { "ticker": "NEM", "name": "Newmont Corporation", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Same precedent-setting benefit for extractive industry permitting.", "actualDir": "UP", "actualPct": 0.8, "actualNote": "Minor positive reaction; gold/copper miners broadly up." },
+        { "ticker": "VALE", "name": "Vale S.A.", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Mining deregulation sentiment globally positive for major miners.", "actualDir": "UP", "actualPct": 0.6, "actualNote": "Marginal benefit; mostly macro-driven." }
+      ]
+    },
+    {
+      "id": "FISA-702-EXT",
+      "congressBillId": null,
+      "title": "FISA Section 702 — 10-Day Extension",
+      "chamber": "House + Senate",
+      "sponsor": "Leadership / Johnson (R)",
+      "category": "National Security / Tech",
+      "voteDate": "Apr 17, 2026",
+      "status": "PASSED",
+      "summary": "A stopgap 10-day extension of Section 702 of FISA, extended to April 30 after the full 5-year and 18-month renewals failed due to a bloc of ~20 Republican privacy hawks.",
+      "predictedLikelihood": 40,
+      "predictedLabel": "Uncertain — GOP rebels + privacy caucus unpredictable",
+      "predictedOutcome": "FAIL",
+      "actualVote": { "yea": "Voice Vote (unanimous)", "nay": "—", "notVoting": "—", "result": "PASSED" },
+      "voteNote": "10-day stopgap passed by voice vote in both chambers. The 18-month clean version failed 228-197 before the stopgap was agreed.",
+      "stocks": [
+        { "ticker": "GOOG", "name": "Alphabet / Google", "projectedDir": "DOWN", "projectedMag": "Slight", "projectedReason": "Clean extension = continued compliance burden.", "actualDir": "FLAT", "actualPct": 0.0, "actualNote": "Market read the 10-day extension as a delay, not resolution. No directional move." },
+        { "ticker": "META", "name": "Meta Platforms", "projectedDir": "DOWN", "projectedMag": "Slight", "projectedReason": "Section 702 compels platforms to hand over user data without warrants.", "actualDir": "FLAT", "actualPct": 0.1, "actualNote": "Negligible reaction. Market focused on earnings cycle." },
+        { "ticker": "TMUS", "name": "T-Mobile", "projectedDir": "DOWN", "projectedMag": "Slight", "projectedReason": "Carriers are primary compelled providers under 702.", "actualDir": "FLAT", "actualPct": 0.0, "actualNote": "No material move. Short extension duration removed urgency." },
+        { "ticker": "HACK", "name": "ETFMG Prime Cyber Security ETF", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Continued surveillance program = sustained demand for cybersecurity.", "actualDir": "UP", "actualPct": 0.4, "actualNote": "Minor tick up on continued national security spend expectations." }
+      ]
+    },
+    {
+      "id": "FY2026-DHS",
+      "congressBillId": null,
+      "title": "DHS FY2026 Funding Bill",
+      "chamber": "House",
+      "sponsor": "House Appropriations (R)",
+      "category": "Appropriations / Immigration",
+      "voteDate": "Jan 23, 2026",
+      "status": "PASSED",
+      "summary": "Final FY2026 funding for DHS including ICE and Border Patrol through May 22, 2026. Passed amid a 27+ day partial government shutdown. Only 7 Democrats voted yes.",
+      "predictedLikelihood": 55,
+      "predictedLabel": "Messy — shutdown dynamics and Dem defections key",
+      "predictedOutcome": "PASS",
+      "actualVote": { "yea": 220, "nay": 207, "notVoting": 8, "result": "PASSED" },
+      "voteNote": "Highly partisan. 7 Democrats crossed over. Some conservative Republicans objected to earmarks.",
+      "stocks": [
+        { "ticker": "GEO", "name": "GEO Group", "projectedDir": "UP", "projectedMag": "Strong", "projectedReason": "Private detention operator directly benefits from ICE/CBP funding.", "actualDir": "UP", "actualPct": 4.1, "actualNote": "GEO surged on passage; ICE detention contract certainty restored." },
+        { "ticker": "CXW", "name": "CoreCivic", "projectedDir": "UP", "projectedMag": "Strong", "projectedReason": "Same private detention exposure as GEO.", "actualDir": "UP", "actualPct": 3.8, "actualNote": "Direct beneficiary of ICE/CBP funding continuity." },
+        { "ticker": "AXON", "name": "Axon Enterprise", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Law enforcement tech spend rises with DHS funding.", "actualDir": "UP", "actualPct": 1.6, "actualNote": "TASER and body cam contracts with DHS components supported." },
+        { "ticker": "BAH", "name": "Booz Allen Hamilton", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "DHS consulting and IT contracts resume after shutdown.", "actualDir": "UP", "actualPct": 0.9, "actualNote": "Modest move; shutdown end broadly positive for gov contractors." }
+      ]
+    }
+  ]
+}
