@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T01:19:47.684Z",
+  "lastUpdated": "2026-04-21T08:56:37.371Z",
   "upcomingBills": [
     {
       "id": "HR-2289",
@@ -96,29 +96,6 @@
       ]
     },
     {
-      "id": "HR-7386",
-      "congressBillId": "119/hr/7386",
-      "title": "FirstNet Reauthorization Act of 2026",
-      "chamber": "House",
-      "sponsor": "Rep. Dunn (R)",
-      "committee": "Energy & Commerce",
-      "category": "Public Safety / Telecom",
-      "voteWeek": "Apr 21, 2026",
-      "status": "FLOOR THIS WEEK",
-      "summary": "Reauthorizes the First Responder Network Authority (FirstNet), the national public safety broadband network used by police, fire, and EMS, operated in partnership with AT&T.",
-      "passLikelihood": 92,
-      "passLabel": "Near Certain — Deep Bipartisan Support",
-      "passReasoning": "Under suspension of the rules. First responder infrastructure has near-universal congressional support. No meaningful opposition expected.",
-      "stocks": [
-        {
-          "ticker": "T",
-          "name": "AT&T",
-          "impact": "▲ Positive",
-          "reason": "AT&T holds the exclusive FirstNet contract — reauthorization locks in the public safety revenue stream long term."
-        }
-      ]
-    },
-    {
       "id": "FISA-FULL",
       "congressBillId": null,
       "title": "FISA Section 702 Long-Term Reauthorization",
@@ -161,6 +138,42 @@
     }
   ],
   "pastBills": [
+    {
+      "id": "HR-7386",
+      "congressBillId": "119/hr/7386",
+      "title": "FirstNet Reauthorization Act of 2026",
+      "chamber": "House",
+      "sponsor": "Rep. Dunn (R)",
+      "committee": "Energy & Commerce",
+      "category": "Public Safety / Telecom",
+      "voteWeek": "Apr 21, 2026",
+      "status": "PASSED",
+      "summary": "Reauthorizes the First Responder Network Authority (FirstNet), the national public safety broadband network used by police, fire, and EMS, operated in partnership with AT&T.",
+      "passLikelihood": 92,
+      "passLabel": "Near Certain — Deep Bipartisan Support",
+      "passReasoning": "Under suspension of the rules. First responder infrastructure has near-universal congressional support. No meaningful opposition expected.",
+      "stocks": [
+        {
+          "ticker": "T",
+          "name": "AT&T",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "AT&T holds the exclusive FirstNet contract — reauthorization locks in the public safety revenue stream long term.",
+          "actualDir": "FLAT",
+          "actualPct": 0,
+          "actualNote": "Post-vote move: data unavailable"
+        }
+      ],
+      "voteDate": "2026-04-21",
+      "predictedOutcome": "PASS",
+      "actualVote": {
+        "yea": "—",
+        "nay": "—",
+        "notVoting": "—",
+        "result": "PASSED"
+      },
+      "voteNote": ""
+    },
     {
       "id": "HJ-RES-140",
       "congressBillId": "119/hjres/140",
