@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T00:00:00Z",
+  "lastUpdated": "2026-04-21T01:16:11.863Z",
   "upcomingBills": [
     {
       "id": "HR-2289",
@@ -16,12 +16,42 @@
       "passLabel": "Likely (House) / Uncertain (Senate)",
       "passReasoning": "Passed committee 26-24 on party lines. GOP House majority will likely hold. Senate has local-control skeptics on both sides. Needs a Senate companion or reconciliation path to become law.",
       "stocks": [
-        { "ticker": "AMT", "name": "American Tower Corp", "impact": "▲ Positive", "reason": "Tower REIT directly benefits from streamlined modification approvals." },
-        { "ticker": "CCI", "name": "Crown Castle", "impact": "▲ Positive", "reason": "Small cell densification accelerated under eliminated local permitting." },
-        { "ticker": "SBAC", "name": "SBA Communications", "impact": "▲ Positive", "reason": "Same tower REIT tailwind as AMT/CCI." },
-        { "ticker": "T", "name": "AT&T", "impact": "▲ Positive", "reason": "Lower rollout cost for 5G dense urban deployments." },
-        { "ticker": "VZ", "name": "Verizon", "impact": "▲ Positive", "reason": "5G expansion made faster and cheaper." },
-        { "ticker": "TMUS", "name": "T-Mobile", "impact": "▲ Positive", "reason": "Rural and suburban small cell deployment friction reduced." }
+        {
+          "ticker": "AMT",
+          "name": "American Tower Corp",
+          "impact": "▲ Positive",
+          "reason": "Tower REIT directly benefits from streamlined modification approvals."
+        },
+        {
+          "ticker": "CCI",
+          "name": "Crown Castle",
+          "impact": "▲ Positive",
+          "reason": "Small cell densification accelerated under eliminated local permitting."
+        },
+        {
+          "ticker": "SBAC",
+          "name": "SBA Communications",
+          "impact": "▲ Positive",
+          "reason": "Same tower REIT tailwind as AMT/CCI."
+        },
+        {
+          "ticker": "T",
+          "name": "AT&T",
+          "impact": "▲ Positive",
+          "reason": "Lower rollout cost for 5G dense urban deployments."
+        },
+        {
+          "ticker": "VZ",
+          "name": "Verizon",
+          "impact": "▲ Positive",
+          "reason": "5G expansion made faster and cheaper."
+        },
+        {
+          "ticker": "TMUS",
+          "name": "T-Mobile",
+          "impact": "▲ Positive",
+          "reason": "Rural and suburban small cell deployment friction reduced."
+        }
       ]
     },
     {
@@ -39,10 +69,30 @@
       "passLabel": "Likely (House) / Long Shot (Senate)",
       "passReasoning": "Passed committee 25-16 on partisan lines. House floor vote expected to succeed. Senate ESA reform has stalled historically. Some bipartisan rural-state support possible.",
       "stocks": [
-        { "ticker": "XOM", "name": "ExxonMobil", "impact": "▲ Positive", "reason": "Fewer ESA delays on pipeline and drilling siting reviews." },
-        { "ticker": "CVX", "name": "Chevron", "impact": "▲ Positive", "reason": "Same upstream project permitting benefit." },
-        { "ticker": "FCX", "name": "Freeport-McMoRan", "impact": "▲ Positive", "reason": "Copper/gold mining projects less vulnerable to ESA litigation." },
-        { "ticker": "NEE", "name": "NextEra Energy", "impact": "▲ Positive", "reason": "Wind/solar siting on federal land becomes easier." }
+        {
+          "ticker": "XOM",
+          "name": "ExxonMobil",
+          "impact": "▲ Positive",
+          "reason": "Fewer ESA delays on pipeline and drilling siting reviews."
+        },
+        {
+          "ticker": "CVX",
+          "name": "Chevron",
+          "impact": "▲ Positive",
+          "reason": "Same upstream project permitting benefit."
+        },
+        {
+          "ticker": "FCX",
+          "name": "Freeport-McMoRan",
+          "impact": "▲ Positive",
+          "reason": "Copper/gold mining projects less vulnerable to ESA litigation."
+        },
+        {
+          "ticker": "NEE",
+          "name": "NextEra Energy",
+          "impact": "▲ Positive",
+          "reason": "Wind/solar siting on federal land becomes easier."
+        }
       ]
     },
     {
@@ -60,7 +110,12 @@
       "passLabel": "Near Certain — Deep Bipartisan Support",
       "passReasoning": "Under suspension of the rules. First responder infrastructure has near-universal congressional support. No meaningful opposition expected.",
       "stocks": [
-        { "ticker": "T", "name": "AT&T", "impact": "▲ Positive", "reason": "AT&T holds the exclusive FirstNet contract — reauthorization locks in the public safety revenue stream long term." }
+        {
+          "ticker": "T",
+          "name": "AT&T",
+          "impact": "▲ Positive",
+          "reason": "AT&T holds the exclusive FirstNet contract — reauthorization locks in the public safety revenue stream long term."
+        }
       ]
     },
     {
@@ -78,10 +133,30 @@
       "passLabel": "Coin Flip — Warrant Provision Is the Fault Line",
       "passReasoning": "The same coalition of ~20 GOP privacy hawks + most Democrats blocked the 18-month clean extension. A deal requires warrant reforms Trump accepts, or enough Democratic crossovers to overcome the rebels.",
       "stocks": [
-        { "ticker": "GOOG", "name": "Alphabet / Google", "impact": "▼ Negative (clean ext.)", "reason": "Clean extension = continued compelled data handover with no new legal clarity." },
-        { "ticker": "META", "name": "Meta Platforms", "impact": "▼ Slight Negative", "reason": "Same compelled-provider exposure as Google under 702." },
-        { "ticker": "HACK", "name": "Cyber Security ETF", "impact": "▲ Positive", "reason": "Any extension keeps national security tech spend flowing." },
-        { "ticker": "CACI", "name": "CACI International", "impact": "▲ Positive", "reason": "Intelligence/surveillance IT contractor benefits from program continuation." }
+        {
+          "ticker": "GOOG",
+          "name": "Alphabet / Google",
+          "impact": "▼ Negative (clean ext.)",
+          "reason": "Clean extension = continued compelled data handover with no new legal clarity."
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms",
+          "impact": "▼ Slight Negative",
+          "reason": "Same compelled-provider exposure as Google under 702."
+        },
+        {
+          "ticker": "HACK",
+          "name": "Cyber Security ETF",
+          "impact": "▲ Positive",
+          "reason": "Any extension keeps national security tech spend flowing."
+        },
+        {
+          "ticker": "CACI",
+          "name": "CACI International",
+          "impact": "▲ Positive",
+          "reason": "Intelligence/surveillance IT contractor benefits from program continuation."
+        }
       ]
     }
   ],
@@ -99,13 +174,54 @@
       "predictedLikelihood": 58,
       "predictedLabel": "Likely to squeak by — CRA bypasses filibuster",
       "predictedOutcome": "PASS",
-      "actualVote": { "yea": 50, "nay": 49, "notVoting": 1, "result": "PASSED" },
+      "actualVote": {
+        "yea": 50,
+        "nay": 49,
+        "notVoting": 1,
+        "result": "PASSED"
+      },
       "voteNote": "Two Republicans (Collins, Tillis) defected. Hawley absent.",
       "stocks": [
-        { "ticker": "FQVLF", "name": "Antofagasta (Twin Metals parent)", "projectedDir": "UP", "projectedMag": "Strong", "projectedReason": "Would unlock the copper mining project blocked since 2021.", "actualDir": "UP", "actualPct": 4.0, "actualNote": "Antofagasta shares rose on London exchange. Twin Metals project now legally re-openable." },
-        { "ticker": "FCX", "name": "Freeport-McMoRan", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Precedent for CRA use against land withdrawals benefits copper miners broadly.", "actualDir": "UP", "actualPct": 1.2, "actualNote": "Modest sympathy trade on reduced federal mining restriction sentiment." },
-        { "ticker": "NEM", "name": "Newmont Corporation", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Same precedent-setting benefit for extractive industry permitting.", "actualDir": "UP", "actualPct": 0.8, "actualNote": "Minor positive reaction; gold/copper miners broadly up." },
-        { "ticker": "VALE", "name": "Vale S.A.", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Mining deregulation sentiment globally positive for major miners.", "actualDir": "UP", "actualPct": 0.6, "actualNote": "Marginal benefit; mostly macro-driven." }
+        {
+          "ticker": "FQVLF",
+          "name": "Antofagasta (Twin Metals parent)",
+          "projectedDir": "UP",
+          "projectedMag": "Strong",
+          "projectedReason": "Would unlock the copper mining project blocked since 2021.",
+          "actualDir": "UP",
+          "actualPct": 4,
+          "actualNote": "Antofagasta shares rose on London exchange. Twin Metals project now legally re-openable."
+        },
+        {
+          "ticker": "FCX",
+          "name": "Freeport-McMoRan",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "Precedent for CRA use against land withdrawals benefits copper miners broadly.",
+          "actualDir": "UP",
+          "actualPct": 1.2,
+          "actualNote": "Modest sympathy trade on reduced federal mining restriction sentiment."
+        },
+        {
+          "ticker": "NEM",
+          "name": "Newmont Corporation",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "Same precedent-setting benefit for extractive industry permitting.",
+          "actualDir": "UP",
+          "actualPct": 0.8,
+          "actualNote": "Minor positive reaction; gold/copper miners broadly up."
+        },
+        {
+          "ticker": "VALE",
+          "name": "Vale S.A.",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "Mining deregulation sentiment globally positive for major miners.",
+          "actualDir": "UP",
+          "actualPct": 0.6,
+          "actualNote": "Marginal benefit; mostly macro-driven."
+        }
       ]
     },
     {
@@ -121,13 +237,54 @@
       "predictedLikelihood": 40,
       "predictedLabel": "Uncertain — GOP rebels + privacy caucus unpredictable",
       "predictedOutcome": "FAIL",
-      "actualVote": { "yea": "Voice Vote (unanimous)", "nay": "—", "notVoting": "—", "result": "PASSED" },
+      "actualVote": {
+        "yea": "Voice Vote (unanimous)",
+        "nay": "—",
+        "notVoting": "—",
+        "result": "PASSED"
+      },
       "voteNote": "10-day stopgap passed by voice vote in both chambers. The 18-month clean version failed 228-197 before the stopgap was agreed.",
       "stocks": [
-        { "ticker": "GOOG", "name": "Alphabet / Google", "projectedDir": "DOWN", "projectedMag": "Slight", "projectedReason": "Clean extension = continued compliance burden.", "actualDir": "FLAT", "actualPct": 0.0, "actualNote": "Market read the 10-day extension as a delay, not resolution. No directional move." },
-        { "ticker": "META", "name": "Meta Platforms", "projectedDir": "DOWN", "projectedMag": "Slight", "projectedReason": "Section 702 compels platforms to hand over user data without warrants.", "actualDir": "FLAT", "actualPct": 0.1, "actualNote": "Negligible reaction. Market focused on earnings cycle." },
-        { "ticker": "TMUS", "name": "T-Mobile", "projectedDir": "DOWN", "projectedMag": "Slight", "projectedReason": "Carriers are primary compelled providers under 702.", "actualDir": "FLAT", "actualPct": 0.0, "actualNote": "No material move. Short extension duration removed urgency." },
-        { "ticker": "HACK", "name": "ETFMG Prime Cyber Security ETF", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Continued surveillance program = sustained demand for cybersecurity.", "actualDir": "UP", "actualPct": 0.4, "actualNote": "Minor tick up on continued national security spend expectations." }
+        {
+          "ticker": "GOOG",
+          "name": "Alphabet / Google",
+          "projectedDir": "DOWN",
+          "projectedMag": "Slight",
+          "projectedReason": "Clean extension = continued compliance burden.",
+          "actualDir": "FLAT",
+          "actualPct": 0,
+          "actualNote": "Market read the 10-day extension as a delay, not resolution. No directional move."
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms",
+          "projectedDir": "DOWN",
+          "projectedMag": "Slight",
+          "projectedReason": "Section 702 compels platforms to hand over user data without warrants.",
+          "actualDir": "FLAT",
+          "actualPct": 0.1,
+          "actualNote": "Negligible reaction. Market focused on earnings cycle."
+        },
+        {
+          "ticker": "TMUS",
+          "name": "T-Mobile",
+          "projectedDir": "DOWN",
+          "projectedMag": "Slight",
+          "projectedReason": "Carriers are primary compelled providers under 702.",
+          "actualDir": "FLAT",
+          "actualPct": 0,
+          "actualNote": "No material move. Short extension duration removed urgency."
+        },
+        {
+          "ticker": "HACK",
+          "name": "ETFMG Prime Cyber Security ETF",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "Continued surveillance program = sustained demand for cybersecurity.",
+          "actualDir": "UP",
+          "actualPct": 0.4,
+          "actualNote": "Minor tick up on continued national security spend expectations."
+        }
       ]
     },
     {
@@ -143,13 +300,54 @@
       "predictedLikelihood": 55,
       "predictedLabel": "Messy — shutdown dynamics and Dem defections key",
       "predictedOutcome": "PASS",
-      "actualVote": { "yea": 220, "nay": 207, "notVoting": 8, "result": "PASSED" },
+      "actualVote": {
+        "yea": 220,
+        "nay": 207,
+        "notVoting": 8,
+        "result": "PASSED"
+      },
       "voteNote": "Highly partisan. 7 Democrats crossed over. Some conservative Republicans objected to earmarks.",
       "stocks": [
-        { "ticker": "GEO", "name": "GEO Group", "projectedDir": "UP", "projectedMag": "Strong", "projectedReason": "Private detention operator directly benefits from ICE/CBP funding.", "actualDir": "UP", "actualPct": 4.1, "actualNote": "GEO surged on passage; ICE detention contract certainty restored." },
-        { "ticker": "CXW", "name": "CoreCivic", "projectedDir": "UP", "projectedMag": "Strong", "projectedReason": "Same private detention exposure as GEO.", "actualDir": "UP", "actualPct": 3.8, "actualNote": "Direct beneficiary of ICE/CBP funding continuity." },
-        { "ticker": "AXON", "name": "Axon Enterprise", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "Law enforcement tech spend rises with DHS funding.", "actualDir": "UP", "actualPct": 1.6, "actualNote": "TASER and body cam contracts with DHS components supported." },
-        { "ticker": "BAH", "name": "Booz Allen Hamilton", "projectedDir": "UP", "projectedMag": "Slight", "projectedReason": "DHS consulting and IT contracts resume after shutdown.", "actualDir": "UP", "actualPct": 0.9, "actualNote": "Modest move; shutdown end broadly positive for gov contractors." }
+        {
+          "ticker": "GEO",
+          "name": "GEO Group",
+          "projectedDir": "UP",
+          "projectedMag": "Strong",
+          "projectedReason": "Private detention operator directly benefits from ICE/CBP funding.",
+          "actualDir": "UP",
+          "actualPct": 4.1,
+          "actualNote": "GEO surged on passage; ICE detention contract certainty restored."
+        },
+        {
+          "ticker": "CXW",
+          "name": "CoreCivic",
+          "projectedDir": "UP",
+          "projectedMag": "Strong",
+          "projectedReason": "Same private detention exposure as GEO.",
+          "actualDir": "UP",
+          "actualPct": 3.8,
+          "actualNote": "Direct beneficiary of ICE/CBP funding continuity."
+        },
+        {
+          "ticker": "AXON",
+          "name": "Axon Enterprise",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "Law enforcement tech spend rises with DHS funding.",
+          "actualDir": "UP",
+          "actualPct": 1.6,
+          "actualNote": "TASER and body cam contracts with DHS components supported."
+        },
+        {
+          "ticker": "BAH",
+          "name": "Booz Allen Hamilton",
+          "projectedDir": "UP",
+          "projectedMag": "Slight",
+          "projectedReason": "DHS consulting and IT contracts resume after shutdown.",
+          "actualDir": "UP",
+          "actualPct": 0.9,
+          "actualNote": "Modest move; shutdown end broadly positive for gov contractors."
+        }
       ]
     }
   ]
